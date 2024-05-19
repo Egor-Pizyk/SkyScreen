@@ -111,6 +111,7 @@ exports
 .strapi
 dist
 build
+/strapiDB
 .strapi-updater.json
 /public/uploads/*.png
 /public/uploads/*.jpeg
